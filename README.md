@@ -1,7 +1,7 @@
-Eloquent
+Eloquent for nonbelievers
 ========
 
-Eloquent is a free & open-source application for research and study of God and His Word. It is developed specifically for Macintosh computers running Mac OS X.
+Eloquent is a free & open-source application for research and study of the collection of legends, myths and stories often referred to as "the bible", translated from old biblical manuscripts or fragments of texts. like the Aleppo Codex (920 CE) and Leningrad Codex (1008 CE) :  https://en.wikipedia.org/wiki/Biblical_manuscript
 
 Eloquent allows you to read and browse many different bibles translations in different languages from Hebrew to Albanian. As well as reading devotionals, commentaries, dictionaries and lexicons, it also supports searching and advanced features such as services so that you can access the Bible in any program.
 
